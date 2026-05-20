@@ -1,3 +1,7 @@
 /playground/
 /submissions/
 /vendor/
+
+*.o
+*.out
+*.obj
