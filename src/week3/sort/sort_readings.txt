@@ -1,0 +1,31 @@
+# Algorithms are, Selection sort, Merge sort, Bubble sort in no particular order
+
+sort1 random10000.txt:      470.856494ms
+sort1 random50000.txt:      9.321268212s
+sort1 random5000.txt:       122.760867ms
+sort1 reversed10000.txt:    397.769987ms
+sort1 reversed50000.txt:    6.605419451s
+sort1 reversed5000.txt:     94.667648ms
+sort1 sorted10000.txt:      3.867358ms
+sort1 sorted50000.txt:      19.754159ms
+sort1 sorted5000.txt:       3.405249ms
+
+sort2 random10000.txt:      9.65193ms
+sort2 random50000.txt:      41.847201ms
+sort2 random5000.txt:       4.794655ms
+sort2 reversed10000.txt:    7.591058ms
+sort2 reversed50000.txt:    35.818668ms
+sort2 reversed5000.txt:     4.391824ms
+sort2 sorted10000.txt:      7.264532ms
+sort2 sorted50000.txt:      30.904109ms
+sort2 sorted5000.txt:       3.961604ms
+
+sort3 random10000.txt:      244.490331ms
+sort3 random50000.txt:      3.493353976s
+sort3 random5000.txt:       39.307901ms
+sort3 reversed10000.txt:    241.2355ms
+sort3 reversed50000.txt:    3.563606363s
+sort3 reversed5000.txt:     40.214584ms
+sort3 sorted10000.txt:      247.510814ms
+sort3 sorted50000.txt:      3.503237277s
+sort3 sorted5000.txt:       37.341135ms

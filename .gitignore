@@ -1,8 +1,8 @@
 /playground/
-/submissions/
-/vendor/
+/libs/
 
 *.o
 *.out
 *.obj
 /vids/
+*.zip

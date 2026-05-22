@@ -1,0 +1,17 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It exhibits O(N^2) time on random/reversed data, but drops
+drastically to O(N) linear time on already sorted data due to early-exit
+optimization.
+
+sort2 uses: Merge Sort
+
+How do you know?: It is the fastest overall and scales logarithmically/linearly
+O(NlogN), Its performance remains highly consistent across random, reversed,
+sorted data.
+
+sort3 uses: Selection Sort
+
+How do you know?: It scales quadratically O(N^2), but unlike Bubble sort, its
+execution time remains identical regardless of whether the input is random,
+reversed, or already sorted.
